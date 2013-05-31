@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1193403768 source:d:\travail\programmation perso\ressource_handle\main.cpp
+	"handler.hpp"
+	<iostream>
+	<cstdio>
+
+1184591296 d:\travail\programmation perso\ressource_handle\handles.hpp
+
+1193335492 d:\travail\programmation perso\ressource_handle\hdls.hpp
+
+1193404132 d:\travail\programmation perso\ressource_handle\handler.hpp
+	<stdexcept>
+
+1209652664 source:d:\documents\codes perso\ressource_handle\main.cpp
+	"zais/handler.hpp"
+	<iostream>
+	<set>
+	<cassert>
+	"zais/debug_utils.hpp"
+	"zais/nullable.hpp"
+	<memory>
+	<cstdio>
+	<fstream>
+
+1201556681 d:\documents\codes perso\ressource_handle\handler.hpp
+	<stdexcept>
+
+1201563707 d:\documents\codes perso\ressource_handle\debug_utils.hpp
+	<stdexcept>
+	<iostream>
+
+1201563087 d:\documents\codes perso\ressource_handle\nullable.hpp
+	"debug_utils.hpp"
+
+1209652482 d:\documents\codes perso\ressource_handle\zais\handler.hpp
+	<stdexcept>
+	"handler_annex.hpp"
+
+1209652340 d:\documents\codes perso\ressource_handle\zais\handler_annex.hpp
+
+1201567307 d:\documents\codes perso\ressource_handle\zais\debug_utils.hpp
+	<stdexcept>
+	<iostream>
+
+1201566687 d:\documents\codes perso\ressource_handle\zais\nullable.hpp
+	"debug_utils.hpp"
+
+1209652718 source:e:\documents\codes perso\ressource_handle\main.cpp
+	"zais/handler.hpp"
+	<iostream>
+	<set>
+	<cassert>
+	"zais/debug_utils.hpp"
+	"zais/nullable.hpp"
+	<memory>
+	<cstdio>
+	<fstream>
+
+1209652482 e:\documents\codes perso\ressource_handle\zais\handler.hpp
+	<stdexcept>
+	"handler_annex.hpp"
+
+1209652340 e:\documents\codes perso\ressource_handle\zais\handler_annex.hpp
+
+1201567307 e:\documents\codes perso\ressource_handle\zais\debug_utils.hpp
+	<stdexcept>
+	<iostream>
+
+1201566687 e:\documents\codes perso\ressource_handle\zais\nullable.hpp
+	"debug_utils.hpp"
+
